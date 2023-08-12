@@ -18,8 +18,8 @@ Com o VALL System, tarefas administrativas complexas são simplificadas e automa
 - Planejamento de Aulas: Capacite os professores a criar planos de aula detalhados, compartilhando-os com os alunos e mantendo um registro do conteúdo ensinado.
 ---
 
-*Alunos do projeto*
-*Ana Beatriz Cossari -202302480624
-Laura de Oliveira Chultz – 202303176031
-Leonardo Fantinel Nespolo – 202302686877
+*Alunos do projeto*<br/>
+*Ana Beatriz Cossari -202302480624<br/>
+Laura de Oliveira Chultz – 202303176031<br/>
+Leonardo Fantinel Nespolo – 202302686877<br/>
 Victor Oliveira de Carvalho - 202303509741*
