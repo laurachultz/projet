@@ -7,7 +7,7 @@ Apresentamos o VALL – Virtual Active Learning & Leadership System – uma solu
 
 Com o VALL System, tarefas administrativas complexas são simplificadas e automatizadas, criando um ambiente de aprendizado eficiente e colaborativo. Desde o gerenciamento de matrículas e registros acadêmicos até o aprendizado personalizado e a comunicação direta com os pais e responsáveis, todos os aspectos das operações escolares são reunidos em uma plataforma unificada e moderna.
 
-# Principais Recursos
+ **Principais Recursos**
 - Agenda e Horários: Crie horários de aula eficientes, evitando conflitos de horários e otimizando a alocação de recursos e professores.
 - Acompanhamento Acadêmico: Mantenha registros detalhados do desempenho dos alunos, incluindo notas, frequência e avaliações, facilitando a análise do progresso ao longo do tempo.
 - Sala de Aula Virtual: Ofereça acesso fácil ao material de estudo através de uma biblioteca virtual, promovendo o aprendizado autônomo.
